@@ -4,5 +4,8 @@ Guido Orefice in the film Life Is Beautiful is a young Italian Jewish bookshop o
 * fanciful
 * brave
 * humorous
+
 Quote Guido Orefice
 > Yes, the prize is a tank.
+<a title="Starlight / Public domain" href="https://commons.wikimedia.org/wiki/File:Benigni.jpg"/a>
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Benigni.jpg/256px-Benigni.jpg"/>
